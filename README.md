@@ -3,12 +3,12 @@ Hackathon 2021 education app. Shows assignments for classes (colour code if due 
 
 Collaborator with https://github.com/eyobodega/flutterproj
 
-Welcome to the app
+# Welcome to the app
 Webiste which includes youtube video explaining the project: https://devpost.com/software/flow-5p7kg1
 
 Formal video presentation for Hackathon conference: https://www.youtube.com/watch?v=jNPhLcIsHKg
 
-Getting Started
+# Getting Started
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
